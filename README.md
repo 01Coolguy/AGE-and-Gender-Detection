@@ -29,3 +29,5 @@ Finally, run the following script to create the training data:
 python create_db_utkface.py -i UTKFace -o UTKFace.mat
 [NOTE]: Because the face images in the UTKFace dataset is tightly cropped (there is no margin around the face region), faces should also be cropped in demo.py if weights trained by the UTKFace dataset is used. Please set the margin argument to 0 for tight cropping:
 
+## Sample
+<img src="C:\Users\praso\OneDrive\Pictures\Screenshots" alt="Alt text" title="Optional title">
