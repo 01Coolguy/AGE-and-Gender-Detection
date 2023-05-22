@@ -32,7 +32,6 @@ python create_db_utkface.py -i UTKFace -o UTKFace.mat
 ## Sample
 
 
-![Screenshot 2023-05-21 001650](https://github.com/01Coolguy/AGE-and-Gender-Detection/assets/110630419/fbacd7f6-ef80-406a-b266-fec9dce19611)
 
 ![Screenshot 2023-05-21 001833](https://github.com/01Coolguy/AGE-and-Gender-Detection/assets/110630419/6ce96858-d58a-4d97-93c7-4d69ce70f0a3)
 
